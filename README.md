@@ -1,5 +1,3 @@
 # gitskills
 
-<
-我创建了一个分支 哈哈！quick and simple
->>>>>>> feature1
+来了 测试分支策略管理
